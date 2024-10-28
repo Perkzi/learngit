@@ -8,3 +8,7 @@ Creating a new branch is quick and simple.
 nobug
 
 old-feature
+
+
+local for rebase
+
